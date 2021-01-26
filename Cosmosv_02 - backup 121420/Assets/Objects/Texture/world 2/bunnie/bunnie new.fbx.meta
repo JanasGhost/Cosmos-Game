@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: ed984c7fee7d9824aa2f40f008470585
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 6961991708014391108
+    second: body|body.001Action
+  - first:
+      74: -1675024491217397237
+    second: body|bodyAction
+  - first:
+      74: -8176675001703313036
+    second: body|eyebrowLAction
+  - first:
+      74: -1564769817477622372
+    second: body|eyebrowRAction
+  - first:
+      74: -2367115093180740223
+    second: body|helmetAction
+  - first:
+      74: -2220973692112366643
+    second: body|tubingAction
+  - first:
+      74: 888423064390125853
+    second: body.001|body.001Action
+  - first:
+      74: -663492873020384095
+    second: body.001|bodyAction
+  - first:
+      74: 2082861452673256276
+    second: body.001|eyebrowLAction
+  - first:
+      74: -5356893643426409270
+    second: body.001|eyebrowRAction
+  - first:
+      74: 1304567795489465388
+    second: body.001|helmetAction
+  - first:
+      74: -4866411179393267194
+    second: body.001|tubingAction
+  - first:
+      74: -7230648538938544387
+    second: eyebrowL|body.001Action
+  - first:
+      74: -7582015173390147234
+    second: eyebrowL|bodyAction
+  - first:
+      74: -7949411018337563257
+    second: eyebrowL|eyebrowLAction
+  - first:
+      74: -5972953299884175248
+    second: eyebrowL|eyebrowRAction
+  - first:
+      74: 8945410595070380073
+    second: eyebrowL|helmetAction
+  - first:
+      74: 2260741724519825622
+    second: eyebrowL|tubingAction
+  - first:
+      74: 5127725955067040935
+    second: eyebrowR|body.001Action
+  - first:
+      74: -6264616325744141345
+    second: eyebrowR|bodyAction
+  - first:
+      74: -1263044937252414284
+    second: eyebrowR|eyebrowLAction
+  - first:
+      74: 8513876884912922342
+    second: eyebrowR|eyebrowRAction
+  - first:
+      74: -5750921704712145757
+    second: eyebrowR|helmetAction
+  - first:
+      74: -7996046802590640208
+    second: eyebrowR|tubingAction
+  - first:
+      74: -6727800496168375018
+    second: helmet|body.001Action
+  - first:
+      74: 8805006665906721131
+    second: helmet|bodyAction
+  - first:
+      74: -7355303425779237677
+    second: helmet|eyebrowLAction
+  - first:
+      74: -5587514822601184971
+    second: helmet|eyebrowRAction
+  - first:
+      74: -2838720975528212196
+    second: helmet|helmetAction
+  - first:
+      74: -3584130561587997051
+    second: helmet|tubingAction
+  - first:
+      74: -2100916064304398650
+    second: tubing|body.001Action
+  - first:
+      74: -2175334008685574543
+    second: tubing|bodyAction
+  - first:
+      74: -2380100670591504763
+    second: tubing|eyebrowLAction
+  - first:
+      74: -8878645386829442823
+    second: tubing|eyebrowRAction
+  - first:
+      74: 7766498049142214034
+    second: tubing|helmetAction
+  - first:
+      74: -1128391208098470247
+    second: tubing|tubingAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
